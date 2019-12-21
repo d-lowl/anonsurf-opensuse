@@ -10,8 +10,8 @@ Modify any variables specified at the top of the script to reflect your configur
 
 ## Usage
 
-init -- Kill dangerous apps before starting tunneling
-start -- Start system-wide TOR tunnel
-stop -- Stop anonsurf and return to clearnet
-restart -- Combines "stop" and "start" options
-change -- Restart TOR to change identity
+* init -- Kill dangerous apps before starting tunneling
+* start -- Start system-wide TOR tunnel
+* stop -- Stop anonsurf and return to clearnet
+* restart -- Combines "stop" and "start" options
+* change -- Restart TOR to change identity
